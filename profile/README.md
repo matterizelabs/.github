@@ -1,8 +1,4 @@
-<div align="center">
-
-# Matterize Labs
-
-![Matterize Labs Logo](../matterizelab.png)
+![Matterize Labs Logo](../matterizelabs_400.png)
 
 ## Welcome to Matterize Labs
 
@@ -51,5 +47,3 @@ Both devices are TIS/TRP tested, Matter v1.2 compliant, and certified for all ma
 
 ---
 **Matterize Labs** - From Concept to Certified Matter Product. Making smart homes interoperable and less confusing, together.
-
-</div>
