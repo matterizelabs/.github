@@ -11,15 +11,15 @@
 ---
 ## Our Services
 
-➜ **Custom Matter Firmware** - Optimized firmware for your hardware
+➜  **Custom Matter Firmware** - Optimized firmware for your hardware
 
-➜ **DAC Partnership** - Direct CSA approval committee collaboration
+➜  **DAC Partnership** - Direct CSA approval committee collaboration
 
-➜ **TIS/TRP Testing** - Full Matter certification testing
+➜  **TIS/TRP Testing** - Full Matter certification testing
 
-➜ **Smart Home Integration** - Apple Home, Google Home, Alexa, SmartThings support
+➜  **Smart Home Integration** - Apple Home, Google Home, Alexa, SmartThings support
 
-➜ **Post-Launch Support** - Ongoing technical support
+➜  **Post-Launch Support** - Ongoing technical support
 
 ---
 ## Certified Devices
@@ -34,29 +34,29 @@ Both devices are TIS/TRP tested, Matter v1.2 compliant, and certified for all ma
 ---
 ## Why Matterize Labs
 
-➜ Complete solution from concept to certification
+➜  Complete solution from concept to certification
 
-➜ Official CSA partnerships for streamlined approval
+➜  Official CSA partnerships for streamlined approval
 
-➜ Proven TIS/TRP compliance track record
+➜  Proven TIS/TRP compliance track record
 
-➜ Production-ready implementations
+➜  Production-ready implementations
 
-➜ Multi-platform ecosystem support
+➜  Multi-platform ecosystem support
 
 ---
 ## Get Started
 
-1. [Schedule a consultation](https://cal.com/abu-matterize/matter-development) for your device idea
-2. We handle: firmware development, certification testing, production launch
-3. Ongoing post-launch technical support included
+➜  [Schedule a consultation](https://cal.com/abu-matterize/matter-development) for your device idea
+➜  We handle: firmware development, certification testing, production launch
+➜  Ongoing post-launch technical support included
 
 ---
 ## Connect
 
-➜ GitHub: [@matterizelabs](https://github.com/matterizelabs)
+➜  GitHub: [@matterizelabs](https://github.com/matterizelabs)
 
-➜ Website: https://matterize.io
+➜  Website: https://matterize.io
 
 ---
-<p style="text-align:center;">Matterize Labs - From Concept to Certified Matter Product. Making smart homes interoperable and less confusing, together.</p>
+**<p style="text-align:center;">Matterize Labs - From Concept to Certified Matter Product. Making smart homes interoperable and less confusing, together.</p>**
