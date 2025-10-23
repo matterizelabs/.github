@@ -1,6 +1,6 @@
 <div align="center">
 
-![Matterize Labs Logo](../matterizelabs_400.png)
+![Matterize Labs Logo](../matterizelabs_300_round.png)
 
 ## Welcome to Matterize Labs
 
