@@ -15,7 +15,7 @@
 
 ➜  **DAC Partnership** - Direct CSA approval committee collaboration
 
-➜  **TIS/TRP Testing** - Full Matter certification testing
+➜  **Matter Certificatin Testing** - Full Matter certification testing (Partner Program) 
 
 ➜  **Smart Home Integration** - Apple Home, Google Home, Alexa, SmartThings support
 
