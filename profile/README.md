@@ -26,10 +26,11 @@
 
 | Product | Manufacturer | Type | Connectivity | Certification |
 |---------|--------------|------|--------------|---|
+| **[Brighter Lamp](https://csa-iot.org/csa_product/brighter-lamp/)** | Brighter Lighting Inc. | Extended Color Light | WiFi, BLE | CSA25781MAT46803-24 (Sept 2025) |
 | **[Dendo SCM Shade](https://www.csa-iot.org/csa_product/dendo-scm-shade)** | Dendo Systems Pty Ltd | Window Covering Controller | Thread, BLE | CSA2438EMAT43585-24 (July 2024) |
 | **[Anablep Motion Sensor](https://www.csa-iot.org/csa_product/anablepsecurity-motion-sensor)** | Steadfast Technology LLC | Multi-Sensor (5-in-1) | WiFi, BLE | CSA25057MAT44969-24 (Jan 2025) |
 
-Both devices are TIS/TRP tested, Matter v1.2 compliant, and certified for all major ecosystems.
+All devices are TIS/TRP tested, Matter v1.2/v1.4 compliant, and certified for all major ecosystems.
 
 ---
 ## Why Matterize Labs
