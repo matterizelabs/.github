@@ -48,7 +48,7 @@ All devices are TIS/TRP tested, Matter v1.2/v1.4 compliant, and certified for al
 ---
 ## Get Started
 
-➜  [Schedule a consultation](https://cal.com/abu-matterize/matter-development) for your device idea
+➜  [Schedule a consultation](https://cal.com/abu-matterize/matter) for your device idea
 ➜  We handle: firmware development, certification testing, production launch
 ➜  Ongoing post-launch technical support included
 
